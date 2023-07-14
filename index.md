@@ -7,3 +7,9 @@
 
 # Adding an image
 ![Image of Daftpunktocat-Guy](https://octodex.github.com/images/daftpunktocat-guy.gif)
+
+# Adding a code example
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
