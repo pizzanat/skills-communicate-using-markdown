@@ -4,3 +4,6 @@
 #### Header 4
 ##### Header 5
 ###### Header 6
+
+# Adding an image
+![Image of Daftpunktocat-Guy](https://octodex.github.com/images/daftpunktocat-guy.gif)
